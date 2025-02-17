@@ -1,0 +1,16 @@
+[
+{
+  "modid": "notrample",
+  "name": "No Trample",
+  "description": "Removes trampling crops.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Talking panda"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
